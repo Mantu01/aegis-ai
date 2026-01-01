@@ -92,3 +92,4 @@ const Device: Model<IDevice> = mongoose.models.Device || mongoose.model<IDevice>
 
 export default Device;
 
+

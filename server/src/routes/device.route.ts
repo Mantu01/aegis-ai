@@ -21,3 +21,4 @@ router.delete("/:id", deleteDevice);
 
 export default router;
 
+
